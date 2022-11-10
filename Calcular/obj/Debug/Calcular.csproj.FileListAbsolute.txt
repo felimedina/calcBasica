@@ -1,0 +1,6 @@
+C:\Users\PCSERVER\source\repos\CalculadoraBasica\Calcular\bin\Debug\Calcular.dll
+C:\Users\PCSERVER\source\repos\CalculadoraBasica\Calcular\bin\Debug\Calcular.pdb
+C:\Users\PCSERVER\source\repos\CalculadoraBasica\Calcular\obj\Debug\Calcular.csprojAssemblyReference.cache
+C:\Users\PCSERVER\source\repos\CalculadoraBasica\Calcular\obj\Debug\Calcular.csproj.CoreCompileInputs.cache
+C:\Users\PCSERVER\source\repos\CalculadoraBasica\Calcular\obj\Debug\Calcular.dll
+C:\Users\PCSERVER\source\repos\CalculadoraBasica\Calcular\obj\Debug\Calcular.pdb
