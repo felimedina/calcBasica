@@ -10,11 +10,11 @@ namespace CalculadoraBasica
     {
         public static int Sumar(int n1,int n2)
         {
-            return 0;
+            return (n1 + n2);
         }
         public static int Restar(int n1,int n2)
         {
-            return 0;
+            return (n1-n2);
         }
     }
 }
