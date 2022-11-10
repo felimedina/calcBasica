@@ -6,7 +6,15 @@ using System.Threading.Tasks;
 
 namespace CalculadoraBasica
 {
-    class CalcularOperaciones
+    public static class CalcularOperaciones
     {
+        public static int Sumar(int n1,int n2)
+        {
+            return 0;
+        }
+        public static int Restar(int n1,int n2)
+        {
+            return 0;
+        }
     }
 }
